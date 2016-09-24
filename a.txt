@@ -1,2 +1,2 @@
 start to learn git 
-delete!
+delete! agane
